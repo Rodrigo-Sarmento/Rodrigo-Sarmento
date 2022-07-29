@@ -12,7 +12,7 @@
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title = "NodeJS"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "Spring"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title = "MongoDB"/></code>
-
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title = "React"/></code>
 
 ##
 <p align="center">
