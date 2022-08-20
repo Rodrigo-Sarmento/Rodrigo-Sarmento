@@ -15,6 +15,7 @@
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title = "React"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title = "Python"/></code>
 
 ##
 <p align="center">
