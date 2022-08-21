@@ -16,6 +16,7 @@
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title = "Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
 
 ##
 <p align="center">
