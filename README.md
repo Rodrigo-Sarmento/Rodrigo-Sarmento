@@ -19,6 +19,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title = "Kotlin"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title = "Firebase"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title = "Android"/></code>
 
 ##
 <p align="center">
